@@ -1,0 +1,11 @@
+body{font-family: Arial; background-color: white; box-sizing: border-box;}
+
+form{
+  background-color: whitesmoke;
+  margin: 0 auto;
+  width: 300px;
+}
+
+h1{
+    text-align: center;
+}
